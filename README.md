@@ -16,7 +16,8 @@ Sign up for a free GitHub account here: https://github.com/join
 If you want to practice the feature branch method described in the tutorials, then request access to the repository so you have the ability to commit, merge, and push to the repository like you would if this was a team repository.
 
 If you want to get practice contributing to an open source project, then you can treat this as an open source repository that you do not have privileges to. In order for your contributions to be made to the repository, you would need to use pull requests: https://help.github.com/articles/about-pull-requests/
-Please follow the `README.pull-request.md` for pull request instructions.
+
+Please follow the `README.pull-request.md` for pull request instructions: https://github.com/zhaol/git-practice-for-anyone/blob/master/README.pull-request.md
 
 I recommend trying the feature branch method first and then giving the pull request a try afterwards.
 
