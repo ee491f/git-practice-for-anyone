@@ -35,7 +35,7 @@ git checkout -b feature/your_branch
 ```
 
 ## Make changes by creating, modifying, or deleting files
-For this exercise, the suggested change is to add a file with some general content like an introduction, quote, etc. Name the file with your name or alias/username or alter-ego.
+For this exercise, the suggested change is to add a file with some general content like an introduction, quote, something random, etc. Name the file with your name or alias/username or alter-ego. As an example: [minnie.txt](https://github.com/ee491f/git-practice-for-anyone/blob/master/minnie.txt)
 
 Also, insert your name into the guest list, `guest-list.txt`. Preferably in alphbetical order.
 
