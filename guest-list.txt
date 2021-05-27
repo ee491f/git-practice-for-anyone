@@ -1,14 +1,14 @@
 Mickey
 Minnie
 goofy
-line 1:
+line 1: 
 line 2: aguilar
 line 3: jolie
 line 4: britney spears
 line 5: alyssia
 line 6:
-line 7: daniel
-line 8:
+line 7: 
+line 8: daniel
 line 9: miraabela
 line 10: edward
 line 11:
