@@ -7,7 +7,7 @@ line 3: jolie
 line 4: britney spears
 line 5: alyssia
 line 6: abdullah
-line 7: 
+line 7: kiran
 line 8: daniel
 line 9: miraabela
 line 10: edward
